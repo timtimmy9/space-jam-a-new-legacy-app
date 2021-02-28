@@ -8,13 +8,13 @@
     },
     {
       "file": "main.js",
-      "line": 1,
-      "description": "The first thing you need to do is create variables that will help you keep track of everything happening in the game. On this line, you should create one variable called `playerMap` that is an empty map. This will keep track of each player by mapping their name with their list of PER values."
+      "line": 4,
+      "description": "Create two new constants called `maxPlayersOnCourt` and `numQuarters` that are used to validate that the coach has 5 players on the court before each quarter starts and only tries to play 4 quarters."
     },
     {
       "file": "main.js",
-      "line": 4,
-      "description": "Create two new constants called `maxPlayersOnCourt` and `numQuarters` that are used to validate that the coach has 5 players on the court before each quarter starts and only tries to play 4 quarters."
+      "line": 1,
+      "description": "The first thing you need to do is create variables that will help you keep track of everything happening in the game. On this line, you should create one variable called `playerMap` that is an empty map. This will keep track of each player by mapping their name with their list of PER values."
     },
     {
       "file": "main.js",
